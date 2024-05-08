@@ -1,0 +1,21 @@
+div{
+        border: 2px solid #1f1d1a;
+    margin: 10px 25px;
+        padding: 15px;
+    background-color: rgba(102, 190, 186, 0.8);
+        border-radius: 15px;
+        box-shadow: 4px 6px #414040;
+    }
+img{
+    float: left;
+    width: 160px;
+    border-radius: 50%;
+}
+.cvprincipal{
+    text-align: center;
+    font-family: "DM Sans", sans-serif;
+    background: linear-gradient(to right, #b4469a, #48869d);
+    #nombrepersona{
+        text-shadow: 2px 3px dimgrey;
+    }
+}
